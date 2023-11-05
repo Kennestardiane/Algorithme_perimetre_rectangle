@@ -1,0 +1,13 @@
+Algorithme calcul_le_perimetre_du_rectangle
+Variable
+ 	L: réel
+ 	w: réel 
+ 	T: réel
+Début
+     écrire ('entrez la valeur de L: ')
+     lire(L)
+     écrire ('entrez la valeur de w: ')
+     lire (w)
+     T<-(L+w)*2
+     écrire ("le périmètre est:",T)
+fin     
